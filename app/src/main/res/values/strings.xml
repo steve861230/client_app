@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ClientActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="food">
+        <item>雞腿飯</item>
+        <item>魯肉飯</item>
+        <item>排骨飯</item>
+        <item>水餃</item>
+        <item>陽春麵</item>
+    </string-array>
+    <string-array name="table">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="chinese_food">中式餐點</string>
+    <string name="fast_food">速食</string>
+    <string name="title">點餐</string>
+    <string name="menu">菜單</string>
+    <string name="main_meal">主餐</string>
+    <string name="appetizer">前菜</string>
+    <string name="desert">甜點</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
